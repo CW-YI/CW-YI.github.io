@@ -95,8 +95,8 @@ analytics:
 # Site Author
 author:
   name             : "이채원"
-  avatar           : # path of avatar image, e.g. "동탄중앙고"
-  bio              : "I am an **amazing** person."
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "동탄중앙고"
   location         : "대한민국, 서울"
   email            : "cwyi@gmail.com"
   links:
