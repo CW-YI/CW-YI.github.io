@@ -20,7 +20,7 @@ title                    : "20219 이채원"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "이채원"
-description              : "파이썬 학습하기"
+description              : "파이썬"
 url                      : "https://CW-YI.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "CW-YI/CW-YI.github.io"
