@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "ko"
-title                    : "20219"
+title                    : "20219 이채원"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "이채원"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://CW-YI.github.io"
+url                      : # the base hostname & protocol for your site e.g. "https://cw-yi.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "CW-YI/CW-YI.github.io"
+repository               : # GitHub username/repo-name e.g. "CW-YI/cw-yi.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
