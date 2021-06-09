@@ -12,7 +12,7 @@ ID는 '알파벳+숫자'의 조합으로 만들 수 있습니다.
 ~~~python
 id='cwyi6104'
 pw=input("비밀번호를 입력하세요 : ")
-for x in range(len(pw)-3):
+for x in range(len(pw)-2):
     if pw[x:x+3] in id:
       print("비밀번호 변경이 불가능합니다")
       break
