@@ -1,6 +1,11 @@
-# Cloud Computing
-
 ---
+layout: post
+title: Cloud Computing 
+categories: Memo
+tags: [SE study]
+---
+
+# Cloud Computing
 
 ## 클라우드 컴퓨팅 개요
 

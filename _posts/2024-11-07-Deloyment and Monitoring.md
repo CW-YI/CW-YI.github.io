@@ -1,6 +1,11 @@
-# Deloyment and Monitoring
-
 ---
+layout: post
+title: Deployment and Monitoring 
+categories: Memo
+tags: [SE study]
+---
+
+# Deloyment and Monitoring
 
 ## 효율적인 배포 전략
 
