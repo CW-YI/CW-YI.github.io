@@ -14,7 +14,7 @@ tags: [SE study]
 - 서비스 장애와 배포의 부담을 최소화
 - 운영 중인 서비스를 중단하지 않고 신규 소프트웨어를 배포하는 기술
 
-![image.png](Service%20Implementation%2011ae62899ea3804d8946fd254c2e1352/image.png)
+![image.png](/assets/images/Service/image.png)
 
 ### **롤링 배포(Rolling Deployment)**
 
@@ -24,7 +24,7 @@ tags: [SE study]
     - 인스턴스마다 차례로 배포를 진행하기 때문에 손쉽게 롤백이 가능
     - 구버전과 신버전이 공존하기 때문에 호환성 문제 발생 가능
 
-![image.png](Service%20Implementation%2011ae62899ea3804d8946fd254c2e1352/image%201.png)
+![image1.png](/assets/images/Service/image1.png)
 
 ### **블루-그린 배포(Blue-Green Deployment)**
 
@@ -34,7 +34,7 @@ tags: [SE study]
     - 배포가 완료된 후 남아 있는 구버전의 환경을 다음 배포에 재사용 가능
     - 시스템 자원이 두 배로 필요함
 
-![image.png](Service%20Implementation%2011ae62899ea3804d8946fd254c2e1352/image%202.png)
+![image2.png](/assets/images/Service/image2.png)
 
 ### **카나리 배포(Canary Deployment)**
 
@@ -45,7 +45,7 @@ tags: [SE study]
 - 단계적 전환 방식을 통해 부정적 영향을 최소화, 상황에 따라 트래픽 양 조절 가능
 - 버전 관리가 필요
 
-![image.png](Service%20Implementation%2011ae62899ea3804d8946fd254c2e1352/image%203.png)
+![image3.png](/assets/images/Service/image3.png)
 
 https://www.samsungsds.com/kr/insights/1256264_4627.html
 
@@ -62,7 +62,7 @@ https://www.samsungsds.com/kr/insights/1256264_4627.html
 - 배포 파이프라인을 사용하여 여러 환경에 한 번에 배포하는 방식
 - 코드형 인프라(IaC)를 사용 → 팀에서 관리 및 프로비저닝을 소프트웨어 개발 작업으로 처리할 수 있음
 
-![image.png](Service%20Implementation%2011ae62899ea3804d8946fd254c2e1352/image%204.png)
+![image4.png](/assets/images/Service/image4.png)
 
 ### 애자일 방법론
 
@@ -70,7 +70,7 @@ https://www.samsungsds.com/kr/insights/1256264_4627.html
 - 작업을 ‘스토리’라는 작은 단위로 나누고, ‘스프린트’라는 짧은 반복 기간 동안 작업
     - 각 스프린트에서는 새로운 소프트웨어 빌드를 출시
 
-![image.png](Service%20Implementation%2011ae62899ea3804d8946fd254c2e1352/image%205.png)
+![image5.png](/assets/images/Service/image5.png)
 
 https://www.netapp.com/ko/devops-solutions/what-is-devops/
 
@@ -113,7 +113,7 @@ https://aws.amazon.com/ko/compare/the-difference-between-agile-devops/
     - https://about.gitlab.com/
     - gitlab vs github action
         
-        ![image.png](Service%20Implementation%2011ae62899ea3804d8946fd254c2e1352/image%206.png)
+        ![image6.png](/assets/images/Service/image6.png)
         
 
 https://www.oracle.com/kr/devops/what-is-devops/

@@ -9,7 +9,7 @@ tags: [SE study]
 
 ## 효율적인 배포 전략
 
-![image.png](Deloyment%20and%20Monitoring%20137e62899ea380388c52d27c5a8c6ff4/image.png)
+![image.png](/assets/images/Deloyment and Monitoring/image.png)
 
 (롤아웃* → 발표, 생산, 출시 등을 뜻함)
 
@@ -31,15 +31,15 @@ tags: [SE study]
 
 ### **CI/CD 파이프라인을 구성할 때 고려해야하는 요소**
 
-![image.png](Deloyment%20and%20Monitoring%20137e62899ea380388c52d27c5a8c6ff4/image%201.png)
+![image1.png](/assets/images/Deloyment and Monitoring/image1.png)
 
 ### **배포 전략을 세울 때 고려해야 하는 요소**
 
-![image.png](Deloyment%20and%20Monitoring%20137e62899ea380388c52d27c5a8c6ff4/image%202.png)
+![image2.png](/assets/images/Deloyment and Monitoring/image2.png)
 
 ### **단계별 배포 파이프라인**
 
-![image.png](Deloyment%20and%20Monitoring%20137e62899ea380388c52d27c5a8c6ff4/image%203.png)
+![image3.png](/assets/images/Deloyment and Monitoring/image3.png)
 
 https://www.msaschool.io/operation/deployment/deployment-three/
 

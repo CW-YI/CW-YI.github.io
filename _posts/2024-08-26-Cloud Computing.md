@@ -24,7 +24,7 @@ tags: [SE study]
 
 - 클라우드 IaaS, PaaS, SaaS 차이
 
-![image.png](Cloud%20Computing%2097409be0e4f847dba3c293754c4831bc/image.png)
+![image.png](/assets/images/Cloud Computing/image.png)
 
 ### 클라우딩 컴퓨팅의 이점과 한계
 
@@ -61,7 +61,7 @@ https://cloud.google.com/learn/advantages-of-cloud-computing?hl=ko
     - 다양한 브라우저에 대한 호환성이 좋음
 - AWS, Azure, Google Cloud 비교
 
-![image.png](Cloud%20Computing%2097409be0e4f847dba3c293754c4831bc/image%201.png)
+![image1.png](/assets/images/Cloud Computing/image1.png)
 
 https://www.apptunix.com/blog/aws-vs-azure-vs-google-cloud-platform/
 
