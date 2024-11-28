@@ -1,6 +1,11 @@
-# Open-source
-
 ---
+layout: post
+title: Open-Source 
+categories: Memo
+tags: [SE study]
+---
+
+# Open-source
 
 ## Open Source Software
 
