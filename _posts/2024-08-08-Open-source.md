@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Open-Source 
 categories: Memo
 tags: [SE study]
